@@ -5169,8 +5169,61 @@
     }
   ],
   "users": [
-    
+    {
+      "name": "Gaurav Shukla",
+      "email": "g@gmail.com",
+      "password": 123,
+      "id": 1
+    },
+    {
+      "name": "Gaurav",
+      "email": "gaurav@gmail.com",
+      "password": 1,
+      "id": 2
+    },
+    {
+      "name": "Pankaj",
+      "email": "p@gmail.com",
+      "password": 123,
+      "id": 3
+    }
   ],
-  "cart":[],
-  "member":[]
+  "cart": [],
+  "member": [
+    {
+      "price": 98,
+      "planType": "VIP",
+      "fullname": "Gaurav Shukla",
+      "email": "g@gmail.com",
+      "id": 1
+    },
+    {
+      "price": 55,
+      "planType": "Individual",
+      "fullname": "Test User",
+      "email": "test@gmail.com",
+      "id": 2
+    },
+    {
+      "price": 98,
+      "planType": "VIP",
+      "fullname": "Pravin",
+      "email": "p@gmail.com",
+      "id": 3
+    },
+    {
+      "price": 98,
+      "planType": "VIP",
+      "fullname": "Mukesh",
+      "email": "mukesh@gmail.com",
+      "id": 4
+    },
+    {
+      "price": 55,
+      "planType": "Individual",
+      "fullname": "Trilochan Prasad",
+      "email": "trilochan@prasad.com",
+      "id": 5
+    }
+  ]
 }
